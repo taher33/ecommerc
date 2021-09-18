@@ -1,0 +1,6 @@
+[submodule "fashion-ecommerce-frontend"]
+	path = fashion-ecommerce-frontend
+	url = https://github.com/taher33/fashion-ecommerce-frontend
+[submodule "fashion-ecommerce-backend"]
+	path = fashion-ecommerce-backend
+	url = https://github.com/taher33/fashion-ecommerce-backend
